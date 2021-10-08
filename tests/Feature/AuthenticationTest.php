@@ -7,11 +7,9 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Tests\TestCase;
 
-// ユーザ認証のサンプル
-// https://qiita.com/nakano-shingo/items/9446568a2f9e903922d4
-
 class AuthenticationTest extends TestCase
 {
+    // ./vendor/bin/phpunit とコマンドを打ってテストを実行する。
     use RefreshDatabase;
 
     protected $user;
