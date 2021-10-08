@@ -1,0 +1,14 @@
+テストツールの大切さ
+https://speakerdeck.com/twada/strategy-and-tactics-of-building-automated-testing-culture-into-organization-2019-summer-edition
+
+PHPUnitドキュメント
+https://phpunit.readthedocs.io/ja/latest/installation.html
+
+LaravelでPHPUnitの参考
+https://qiita.com/nakano-shingo/items/9446568a2f9e903922d4
+
+VueでJestを使ったテストドキュメント
+https://vue-test-utils.vuejs.org/ja/installation/testing-single-file-components-with-jest.html
+
+Jest + Vueの参考
+https://www.tohuandkonsome.site/entry/2019/08/26/224711
